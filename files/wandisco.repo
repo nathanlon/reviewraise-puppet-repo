@@ -1,0 +1,6 @@
+[WANdisco]
+name=WANdisco Repo
+enabled=1
+baseurl=http://opensource.wandisco.com/centos/6/RPMS/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-WANdisco

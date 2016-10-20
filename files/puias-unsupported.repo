@@ -1,0 +1,5 @@
+[puias-unsupported]
+name=PUIAS Unsupported
+baseurl=http://puias.math.ias.edu/data/puias/unsupported/6/i386/
+enabled=1
+gpgcheck=0
